@@ -1,7 +1,7 @@
 android-tdd-playground
 ======================
 
-Fork build: [![Build Status](https://travis-ci.org/apihlaja/android-tdd-playground.png?branch=ap-testing-travis)](https://travis-ci.org/pestrada/android-tdd-playground)
+Fork build: [![Build Status](https://travis-ci.org/apihlaja/android-tdd-playground.png?branch=ap-testing-travis)](https://travis-ci.org/apihlaja/android-tdd-playground) (ap-testing-travis branch)
 
 Android application using TDD Tools and Continuous Integration
 
